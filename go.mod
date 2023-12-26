@@ -1,4 +1,4 @@
-module golang-openapi-requests
+module golang-openapi
 
 go 1.21
 
