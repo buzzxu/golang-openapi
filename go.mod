@@ -1,6 +1,6 @@
 module golang-openapi
 
-go 1.21
+go 1.27.3
 
 require (
 	github.com/buzzxu/boys v0.3.7
